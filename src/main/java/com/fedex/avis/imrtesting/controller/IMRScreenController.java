@@ -161,6 +161,8 @@ public class IMRScreenController {
 		
 		System.out.println("###"+cons.getText());
 		
+		resultCount.setText("333");
+		
 	}
 	
 	@FXML
